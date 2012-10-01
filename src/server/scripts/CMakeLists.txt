@@ -42,8 +42,6 @@ set(scripts_STAT_SRCS
 if(SCRIPTS)
   include(Custom/CMakeLists.txt)
   include(World/CMakeLists.txt)
-  include(EasternKingdoms/CMakeLists.txt)
-  include(Kalimdor/CMakeLists.txt)
 endif()
 
 message(STATUS "SCRIPT PREPARATION COMPLETE")
