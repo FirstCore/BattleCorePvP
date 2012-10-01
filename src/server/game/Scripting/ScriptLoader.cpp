@@ -400,10 +400,6 @@ void AddScripts()
     AddWorldScripts();
     AddEasternKingdomsScripts();
     AddKalimdorScripts();
-    AddOutlandScripts();
-    AddNorthrendScripts();
-    AddBattlegroundScripts();
-    AddOutdoorPvPScripts();
     AddCustomScripts();
 #endif
 }
